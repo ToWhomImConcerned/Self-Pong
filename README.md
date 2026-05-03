@@ -41,7 +41,7 @@ A two-player Pong game built in Python using the Turtle graphics library — mad
 ## Running the Game
 
 ```bash
-python pong.py
+python V1_pong.py
 ```
 
 ---
